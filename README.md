@@ -25,6 +25,11 @@ To run the game, follow these steps:
 - The goal is to avoid being the player to remove the last stick.
 - The computer opponent will make optimal moves to try to win.
 
+## Game overview
+
+![NimSpiel](image_url)
+
+
 ## Implementation Details
 
 - The code uses the Processing library to create a graphical user interface.
