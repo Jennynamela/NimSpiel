@@ -1,8 +1,6 @@
 # NimSpiel
 
-# My Sketch
-
-This repository contains a Java program called "MySketch" that implements a game of Nim using the Processing library.
+The game of Nim is a strategy game where players take turns removing stones from rows. There are multiple rows of stones, and players alternate taking any number of stones from a single row. The objective is to force the opponent to take the last stone.
 
 ## Instructions
 
