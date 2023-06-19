@@ -27,7 +27,7 @@ To run the game, follow these steps:
 
 ## Game overview
 
-![NimSpiel](image_url)
+![NimSpiel](https://github.com/Jennynamela/NimSpiel/blob/main/Screenshot%20(439).png)
 
 
 ## Implementation Details
